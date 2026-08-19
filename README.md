@@ -1,187 +1,211 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:1a1a3e,60:6b5b95,100:d4a5c9&height=260&section=header&text=Parinamika%20Bhanu&fontSize=44&fontColor=F5EFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%E2%80%A2%20Software%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Cloud&descAlignY=58&descAlign=50&descColor=C9A7FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070f,25:14122b,55:2d2150,80:6b4e7a,100:c98fae&height=250&section=header&text=Parinamika%20Bhanu&fontSize=42&fontColor=F2EBFA&animation=fadeIn&fontAlignY=42&desc=⋆%20AI%20·%20Software%20·%20Cybersecurity%20·%20Cloud%20⋆&descAlignY=62&descAlign=50&descColor=C9A7FF" width="100%"/>
 
-<br/>
+<sub>a private digital workspace, mid-build</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=C9A7FF&center=true&vCenter=true&width=620&lines=Computer+Science+Student;Building+AI-Powered+Software;Exploring+Secure%2C+Scalable+Systems;curious+by+default+%E2%9C%A6" alt="Typing SVG" />
+<br/><br/>
+
+<a href="https://github.com/Parinamika-13"><img src="https://img.shields.io/badge/GitHub-05070f?style=flat-square&logo=github&logoColor=E6D9FF" /></a>
+<a href="https://www.linkedin.com/in/parinamika-bhanu-chanamala-651b26375/"><img src="https://img.shields.io/badge/LinkedIn-05070f?style=flat-square&logo=linkedin&logoColor=7FDBFF" /></a>
 
 </div>
 
 <br/>
 
-<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
+<p align="center">⋆ ｡ ✦ ˚ ☾ ˚ ✦ ｡ ⋆</p>
 
-<h3 align="center">☾ About</h3>
+<h3 align="center"><code>01 — WHO I AM</code></h3>
 
-<p align="center" style="max-width:640px;">
+<p align="center" style="max-width:600px;">
 Computer Science student building AI-powered software and exploring secure, scalable systems.<br/>
-I like turning ideas into working products — across AI/ML, full-stack engineering, cybersecurity, and cloud infrastructure.
+I like taking an idea, breaking it into a system, and staying up too late making it work.
 </p>
+
+<p align="center">⋆ ｡ ✦ ˚ ☾ ˚ ✦ ｡ ⋆</p>
+
+<h3 align="center"><code>02 — MY DIGITAL UNIVERSE</code></h3>
 
 <div align="center">
 
-`AI / ML`&nbsp;&nbsp;·&nbsp;&nbsp;`Full-Stack Development`&nbsp;&nbsp;·&nbsp;&nbsp;`AI Agents`&nbsp;&nbsp;·&nbsp;&nbsp;`Cybersecurity`&nbsp;&nbsp;·&nbsp;&nbsp;`Cloud / AWS`&nbsp;&nbsp;·&nbsp;&nbsp;`System Design`&nbsp;&nbsp;·&nbsp;&nbsp;`DSA`
+<table>
+<tr>
+<td align="center" width="16%">🤖<br/><sub>AI / ML</sub></td>
+<td align="center" width="16%">🛠️<br/><sub>Software<br/>Engineering</sub></td>
+<td align="center" width="16%">🛡️<br/><sub>Cybersecurity</sub></td>
+<td align="center" width="16%">☁️<br/><sub>Cloud / AWS</sub></td>
+<td align="center" width="16%">🧩<br/><sub>Full Stack</sub></td>
+<td align="center" width="16%">⌁<br/><sub>AI Agents</sub></td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+<p align="center">⋆ ｡ ✦ ˚ ☾ ˚ ✦ ｡ ⋆</p>
+
+<h3 align="center"><code>03 — TERMINAL</code></h3>
 
 <div align="center">
 
 <pre>
-> initializing Parinamika...
+parinamika@dev ⌁ ~
+$ whoami
+  → Parinamika Bhanu
 
-  curiosity ........... ONLINE
-  creativity ........... ONLINE
-  security ............. ONLINE
-  cloud ................. ONLINE
-  machine learning .. ONLINE
-  building .............. ONLINE
+$ focus --list
+  → AI/ML          ⋆ learning to reason with data
+  → Software Eng   ⋆ shipping things that work
+  → Cybersecurity  ⋆ thinking in threats, not features
+  → Cloud / AWS    ⋆ designing for scale, not just demos
 
-> ready.
+$ status
+  → building. always building.
 </pre>
 
 </div>
 
-<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
+<p align="center">⋆ ｡ ✦ ˚ ☾ ˚ ✦ ｡ ⋆</p>
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center"><code>04 — TECHNOLOGY CONSTELLATION</code></h3>
 
 <div align="center">
 
-**Languages**
+<sub><b>LANGUAGES</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/Python-1a1a3e?style=for-the-badge&logo=python&logoColor=C9A7FF" />
-<img src="https://img.shields.io/badge/Java-0a0e27?style=for-the-badge&logo=openjdk&logoColor=C9A7FF" />
-<img src="https://img.shields.io/badge/JavaScript-1a1a3e?style=for-the-badge&logo=javascript&logoColor=F5D6E8" />
-<img src="https://img.shields.io/badge/TypeScript-0a0e27?style=for-the-badge&logo=typescript&logoColor=7FDBFF" />
+<img src="https://img.shields.io/badge/Python-14122b?style=flat-square&logo=python&logoColor=C9A7FF" />
+<img src="https://img.shields.io/badge/Java-05070f?style=flat-square&logo=openjdk&logoColor=C9A7FF" />
+<img src="https://img.shields.io/badge/JavaScript-14122b?style=flat-square&logo=javascript&logoColor=F2C9E0" />
+<img src="https://img.shields.io/badge/TypeScript-05070f?style=flat-square&logo=typescript&logoColor=7FDBFF" />
 
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/React-1a1a3e?style=for-the-badge&logo=react&logoColor=7FDBFF" />
-<img src="https://img.shields.io/badge/HTML5-0a0e27?style=for-the-badge&logo=html5&logoColor=F5B7DA" />
-<img src="https://img.shields.io/badge/CSS3-1a1a3e?style=for-the-badge&logo=css3&logoColor=7FDBFF" />
+<br/><br/>
 
-**Backend**
+<sub><b>AI / ML</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/FastAPI-0a0e27?style=for-the-badge&logo=fastapi&logoColor=6BE39B" />
-<img src="https://img.shields.io/badge/Node.js-1a1a3e?style=for-the-badge&logo=nodedotjs&logoColor=6BE39B" />
+<img src="https://img.shields.io/badge/PyTorch-14122b?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/TensorFlow-05070f?style=flat-square&logo=tensorflow&logoColor=FF9E6B" />
+<img src="https://img.shields.io/badge/scikit--learn-14122b?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
 
-**Data & Infrastructure**
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-0a0e27?style=for-the-badge&logo=postgresql&logoColor=7FDBFF" />
-<img src="https://img.shields.io/badge/Redis-1a1a3e?style=for-the-badge&logo=redis&logoColor=F5B7DA" />
-<img src="https://img.shields.io/badge/Docker-0a0e27?style=for-the-badge&logo=docker&logoColor=7FDBFF" />
-<img src="https://img.shields.io/badge/Kafka-1a1a3e?style=for-the-badge&logo=apachekafka&logoColor=C9A7FF" />
-<img src="https://img.shields.io/badge/Qdrant-0a0e27?style=for-the-badge&logo=qdrant&logoColor=F5B7DA" />
+<br/><br/>
 
-**AI / ML**
+<sub><b>FRONTEND</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/PyTorch-1a1a3e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-<img src="https://img.shields.io/badge/TensorFlow-0a0e27?style=for-the-badge&logo=tensorflow&logoColor=FF9E6B" />
-<img src="https://img.shields.io/badge/scikit--learn-1a1a3e?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/React-05070f?style=flat-square&logo=react&logoColor=7FDBFF" />
+<img src="https://img.shields.io/badge/HTML5-14122b?style=flat-square&logo=html5&logoColor=F2C9E0" />
+<img src="https://img.shields.io/badge/CSS3-05070f?style=flat-square&logo=css3&logoColor=7FDBFF" />
 
-**Cloud**
-<br/>
-<img src="https://img.shields.io/badge/AWS-0a0e27?style=for-the-badge&logo=amazonaws&logoColor=FF9E6B" />
+<br/><br/>
 
-**Tools**
+<sub><b>BACKEND</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/Git-1a1a3e?style=for-the-badge&logo=git&logoColor=F1502F" />
-<img src="https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=F5EFFF" />
+<img src="https://img.shields.io/badge/FastAPI-14122b?style=flat-square&logo=fastapi&logoColor=6BE39B" />
+<img src="https://img.shields.io/badge/Node.js-05070f?style=flat-square&logo=nodedotjs&logoColor=6BE39B" />
+
+<br/><br/>
+
+<sub><b>CLOUD</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/AWS-14122b?style=flat-square&logo=amazonaws&logoColor=FF9E6B" />
+
+<br/><br/>
+
+<sub><b>INFRASTRUCTURE</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/Docker-05070f?style=flat-square&logo=docker&logoColor=7FDBFF" />
+<img src="https://img.shields.io/badge/Kafka-14122b?style=flat-square&logo=apachekafka&logoColor=C9A7FF" />
+<img src="https://img.shields.io/badge/Redis-05070f?style=flat-square&logo=redis&logoColor=F2C9E0" />
+<img src="https://img.shields.io/badge/Qdrant-14122b?style=flat-square&logo=qdrant&logoColor=F2C9E0" />
+<img src="https://img.shields.io/badge/PostgreSQL-05070f?style=flat-square&logo=postgresql&logoColor=7FDBFF" />
+
+<br/><br/>
+
+<sub><b>SECURITY</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/Cybersecurity-14122b?style=flat-square&logoColor=C9A7FF" />
+<img src="https://img.shields.io/badge/Secure_Software_Dev-05070f?style=flat-square&logoColor=F2C9E0" />
+<img src="https://img.shields.io/badge/App_Security-14122b?style=flat-square&logoColor=7FDBFF" />
 
 </div>
 
-<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
+<p align="center">⋆ ｡ ✦ ˚ ☾ ˚ ✦ ｡ ⋆</p>
 
-<h3 align="center">☾ Security / Digital Defense</h3>
-
-<p align="center" style="max-width:600px;">
-I'm interested in cybersecurity and secure application development — thinking about threat awareness, security-conscious software engineering, and cloud security fundamentals as part of how I build, not as an afterthought.
-</p>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Application_Security-1a1a3e?style=flat-square&logoColor=C9A7FF" />
-<img src="https://img.shields.io/badge/Secure_Software_Dev-0a0e27?style=flat-square&logoColor=F5B7DA" />
-<img src="https://img.shields.io/badge/Threat_Awareness-1a1a3e?style=flat-square&logoColor=7FDBFF" />
-</div>
-
-<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
-
-<h3 align="center">Featured Projects</h3>
+<h3 align="center"><code>05 — FEATURED BUILDS</code></h3>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h4 align="center">✦ NovaCure</h4>
-<p align="center"><em>AI-powered, microservices-based pharmacy management platform</em></p>
+<h4 align="center">⌁ NovaCure</h4>
+<p align="center"><sub><i>AI-powered pharmacy management platform</i></sub></p>
 
 <p align="center">
-Role-based access · Inventory & lot/expiry tracking · Prescription-linked POS<br/>
-Stock transfers & replenishment planning · Executive reporting<br/>
-AI assistant · Demand forecasting · Anomaly detection
+Pharmacy operations — inventory, prescriptions, transfers — scattered across manual processes and disconnected tools. NovaCure brings it into one system, with an AI layer watching stock patterns and flagging what a person would miss.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/FastAPI-0a0e27?style=flat-square&logo=fastapi&logoColor=6BE39B" />
-<img src="https://img.shields.io/badge/React-1a1a3e?style=flat-square&logo=react&logoColor=7FDBFF" />
-<img src="https://img.shields.io/badge/PostgreSQL-0a0e27?style=flat-square&logo=postgresql&logoColor=7FDBFF" />
-<img src="https://img.shields.io/badge/Kafka-1a1a3e?style=flat-square&logo=apachekafka&logoColor=C9A7FF" />
-<img src="https://img.shields.io/badge/Qdrant-0a0e27?style=flat-square&logo=qdrant&logoColor=F5B7DA" />
+<sub>⋆ role-based access · lot & expiry tracking · prescription-linked POS<br/>
+⋆ demand forecasting · anomaly detection · executive reporting</sub>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-05070f?style=flat-square&logo=fastapi&logoColor=6BE39B" />
+<img src="https://img.shields.io/badge/React-14122b?style=flat-square&logo=react&logoColor=7FDBFF" />
+<img src="https://img.shields.io/badge/PostgreSQL-05070f?style=flat-square&logo=postgresql&logoColor=7FDBFF" />
+<img src="https://img.shields.io/badge/Kafka-14122b?style=flat-square&logo=apachekafka&logoColor=C9A7FF" />
+<img src="https://img.shields.io/badge/Qdrant-05070f?style=flat-square&logo=qdrant&logoColor=F2C9E0" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h4 align="center">✦ ZeroHarm AI</h4>
-<p align="center"><em>AI-powered industrial safety & predictive intelligence platform</em></p>
+<h4 align="center">⌁ ZeroHarm AI</h4>
+<p align="center"><sub><i>AI-powered industrial safety & predictive intelligence</i></sub></p>
 
 <p align="center">
-AI agents for real-time telemetry & safety monitoring · Decision-making & auditing<br/>
-Random Forest & Isolation Forest models · LLM integration · Sentence Transformers
+Industrial safety usually means reacting after something goes wrong. ZeroHarm AI is built around agents that watch real-time telemetry, reason about risk, and surface decisions before an incident — with every action logged for audit.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Next.js-0a0e27?style=flat-square&logo=nextdotjs&logoColor=F5EFFF" />
-<img src="https://img.shields.io/badge/TypeScript-1a1a3e?style=flat-square&logo=typescript&logoColor=7FDBFF" />
-<img src="https://img.shields.io/badge/FastAPI-0a0e27?style=flat-square&logo=fastapi&logoColor=6BE39B" />
-<img src="https://img.shields.io/badge/Kafka-1a1a3e?style=flat-square&logo=apachekafka&logoColor=C9A7FF" />
-<img src="https://img.shields.io/badge/Kubernetes-0a0e27?style=flat-square&logo=kubernetes&logoColor=7FDBFF" />
-<img src="https://img.shields.io/badge/Docker-1a1a3e?style=flat-square&logo=docker&logoColor=7FDBFF" />
+<sub>⋆ real-time telemetry & safety monitoring · AI decision engine<br/>
+⋆ Random Forest + Isolation Forest models · Sentence Transformers · full audit trail</sub>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-14122b?style=flat-square&logo=nextdotjs&logoColor=F2EBFA" />
+<img src="https://img.shields.io/badge/TypeScript-05070f?style=flat-square&logo=typescript&logoColor=7FDBFF" />
+<img src="https://img.shields.io/badge/FastAPI-14122b?style=flat-square&logo=fastapi&logoColor=6BE39B" />
+<img src="https://img.shields.io/badge/Kafka-05070f?style=flat-square&logo=apachekafka&logoColor=C9A7FF" />
+<img src="https://img.shields.io/badge/Kubernetes-14122b?style=flat-square&logo=kubernetes&logoColor=7FDBFF" />
+<img src="https://img.shields.io/badge/Docker-05070f?style=flat-square&logo=docker&logoColor=7FDBFF" />
 </p>
 
 </td>
 </tr>
 </table>
 
-<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
+<p align="center">⋆ ｡ ✦ ˚ ☾ ˚ ✦ ｡ ⋆</p>
 
-<h3 align="center">GitHub Statistics</h3>
+<h3 align="center"><code>06 — SECURITY / CLOUD</code></h3>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Parinamika-13&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e27&title_color=C9A7FF&icon_color=F5B7DA&text_color=E6D9FF&ring_color=7FDBFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parinamika-13&theme=radical&hide_border=true&background=0a0e27&stroke=1a1a3e&ring=C9A7FF&fire=F5B7DA&currStreakLabel=E6D9FF" width="48%" />
+<table>
+<tr>
+<td align="center" width="25%">🛡️<br/><sub>Cybersecurity</sub></td>
+<td align="center" width="25%">☁️<br/><sub>AWS</sub></td>
+<td align="center" width="25%">🔐<br/><sub>Secure Software</sub></td>
+<td align="center" width="25%">⚡<br/><sub>Scalable Systems</sub></td>
+</tr>
+</table>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parinamika-13&layout=compact&theme=radical&hide_border=true&bg_color=0a0e27&title_color=C9A7FF&text_color=E6D9FF&langs_count=8" width="55%" />
+<p style="max-width:560px;">
+Areas I'm actively building skill in — thinking about security and cloud design as part of how software gets built, not bolted on after.
+</p>
 
 </div>
 
-<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
+<p align="center">⋆ ｡ ✦ ˚ ☾ ˚ ✦ ｡ ⋆</p>
 
-<h3 align="center">Trophies</h3>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Parinamika-13&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4" width="80%" />
-</div>
-
-<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
-
-<h3 align="center">Currently</h3>
+<h3 align="center"><code>07 — CURRENTLY BUILDING</code></h3>
 
 <div align="center">
 
@@ -189,23 +213,20 @@ Random Forest & Isolation Forest models · LLM integration · Sentence Transform
 <tr>
 <td align="center" width="33%">
 
-**Learning**
-<br/>
-AI Agents<br/>System Design<br/>DSA<br/>Cybersecurity<br/>AWS / Cloud
+**⋆ Learning**
+<br/><sub>AI Agents<br/>System Design<br/>DSA<br/>Cybersecurity<br/>AWS / Cloud</sub>
 
 </td>
 <td align="center" width="33%">
 
-**Building**
-<br/>
-AI-powered applications<br/>Full-stack projects<br/>Developer tools<br/>Secure software
+**⋆ Building**
+<br/><sub>AI-powered software<br/>Full-stack systems<br/>Developer tools</sub>
 
 </td>
 <td align="center" width="33%">
 
-**Exploring**
-<br/>
-Cloud systems<br/>AI systems<br/>Cybersecurity<br/>Creative interfaces
+**⋆ Exploring**
+<br/><sub>Secure systems<br/>Cloud architecture<br/>Creative interfaces</sub>
 
 </td>
 </tr>
@@ -213,20 +234,42 @@ Cloud systems<br/>AI systems<br/>Cybersecurity<br/>Creative interfaces
 
 </div>
 
-<p align="center"><sub>powered by curiosity, caffeine, and questionable debugging decisions ✦</sub></p>
+<p align="center">⋆ ｡ ✦ ˚ ☾ ˚ ✦ ｡ ⋆</p>
 
-<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
-
-<h3 align="center">Connect</h3>
+<h3 align="center"><code>08 — GITHUB DATA</code></h3>
 
 <div align="center">
-<a href="https://github.com/Parinamika-13"><img src="https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=F5EFFF" /></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Parinamika-13&show_icons=true&theme=radical&hide_border=true&bg_color=05070f&title_color=C9A7FF&icon_color=F2C9E0&text_color=E6D9FF&ring_color=7FDBFF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parinamika-13&theme=radical&hide_border=true&background=05070f&stroke=14122b&ring=C9A7FF&fire=F2C9E0&currStreakLabel=E6D9FF" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parinamika-13&layout=compact&theme=radical&hide_border=true&bg_color=05070f&title_color=C9A7FF&text_color=E6D9FF&langs_count=7" width="45%"/>
+
+</div>
+
+<p align="center">⋆ ｡ ✦ ˚ ☾ ˚ ✦ ｡ ⋆</p>
+
+<h3 align="center"><code>09 — A THOUGHT</code></h3>
+
+<p align="center" style="max-width:520px;">
+<sub><i>every system I build is just a smaller version of the question<br/>"what happens when this breaks?" — asked early enough to matter.</i></sub>
+</p>
+
+<p align="center">⋆ ｡ ✦ ˚ ☾ ˚ ✦ ｡ ⋆</p>
+
+<h3 align="center"><code>10 — CONNECT</code></h3>
+
+<div align="center">
+<a href="https://github.com/Parinamika-13"><img src="https://img.shields.io/badge/GitHub-05070f?style=for-the-badge&logo=github&logoColor=E6D9FF" /></a>
+<a href="https://www.linkedin.com/in/parinamika-bhanu-chanamala-651b26375/"><img src="https://img.shields.io/badge/LinkedIn-05070f?style=for-the-badge&logo=linkedin&logoColor=7FDBFF" /></a>
 </div>
 
 <br/>
 
-<div align="center">
-<sub>keep building ✦</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c98fae,20:6b4e7a,55:2d2150,80:14122b,100:05070f&height=130&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a5c9,40:6b5b95,75:1a1a3e,100:0a0e27&height=140&section=footer" width="100%"/>
+<sub>keep building ✦</sub>
+
+</div>
