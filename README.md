@@ -1,23 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:1a1a2e&height=280&section=header&text=Parinamika%20Bhanu&fontSize=48&fontColor=FFD93D&animation=fadeIn&fontAlignY=38&desc=Insert%20Coin%20%E2%80%A2%20Building%20Intelligent%20Systems&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:000000&height=280&section=header&text=PARINAMIKA_BHANU&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=%3E%20root%20access%20granted%20%3A%3A%20building%20intelligent%20systems&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=650&lines=SOFTWARE+ENGINEER;AI%2FML+ENTHUSIAST;FULL-STACK+DEVELOPER;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=650&lines=Booting+kernel...+%5BOK%5D;Decrypting+profile.dat...+%5BOK%5D;Bypassing+firewall...+%5BOK%5D;ACCESS+GRANTED;Welcome%2C+Parinamika." alt="Typing SVG" />
 
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🕹️-PLAYER__ONE__READY-1a1a2e?style=for-the-badge&labelColor=16213e&color=FF6B6B" />
-  <img src="https://img.shields.io/badge/HIGH_SCORE-∞-1a1a2e?style=for-the-badge&labelColor=16213e&color=FFD93D" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=0d1117&color=00FF41" />
+  <img src="https://img.shields.io/badge/ENCRYPTION-AES--256-000000?style=for-the-badge&labelColor=0d1117&color=00FF41" />
+  <img src="https://img.shields.io/badge/CLEARANCE-ROOT-000000?style=for-the-badge&labelColor=0d1117&color=FF073A" />
 </p>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
+</div>
 
-🕹️ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 🕹️
+<div align="center">
 
-### 🎮 ABOUT ME
+<pre>
+██████╗  █████╗ ██████╗ ██╗███╗   ██╗ █████╗ ███╗   ███╗██╗██╗  ██╗ █████╗ 
+██╔══██╗██╔══██╗██╔══██╗██║████╗  ██║██╔══██╗████╗ ████║██║██║ ██╔╝██╔══██╗
+██████╔╝███████║██████╔╝██║██╔██╗ ██║███████║██╔████╔██║██║█████╔╝ ███████║
+██╔═══╝ ██╔══██║██╔══██╗██║██║╚██╗██║██╔══██║██║╚██╔╝██║██║██╔═██╗ ██╔══██║
+██║     ██║  ██║██║  ██║██║██║ ╚████║██║  ██║██║ ╚═╝ ██║██║██║  ██╗██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+</pre>
+
+### <code>[ IDENTITY_FILE.dat — DECRYPTED ]</code>
 
 </div>
 
@@ -26,25 +38,24 @@
 <td width="55%" valign="top">
 
 <pre>
-╔══════════════════════════╗
-║   PLAYER PROFILE LOADED   ║
-╚══════════════════════════╝
-
-$ whoami
+root@parinamika:~$ whoami
 > Parinamika Bhanu :: Software Engineer
 
-$ cat interests.txt
+root@parinamika:~$ cat interests.txt
 > Artificial Intelligence
 > Machine Learning Systems
 > Full-Stack Engineering
 > Elegant, scalable architecture
 
-$ echo $CURRENT_STATUS
+root@parinamika:~$ trace --target=motivation
 > Building AI-powered platforms
-> that are actually fun to use
+> that quietly do something smart
+> under the hood.
 
-$ ./run.sh --mode=engineer
-> [✓] LEVEL UP! STATUS: ONLINE
+root@parinamika:~$ ./deploy.sh --mode=engineer
+> [OK] SYSTEM ONLINE
+> [OK] NO BUGS DETECTED (yet)
+> [OK] READY_TO_BUILD = TRUE
 </pre>
 
 </td>
@@ -61,56 +72,54 @@ Currently exploring how agentic AI, vector search, and real-time data pipelines 
 </table>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
 
-🕹️ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 🕹️
-
-### 🪙 TECH STACK
+### <code>[ ARSENAL.exe — LOADED ]</code>
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-16213e?style=for-the-badge&logo=python&logoColor=FFD93D" />
-<img src="https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=FF6B6B" />
-<img src="https://img.shields.io/badge/JavaScript-16213e?style=for-the-badge&logo=javascript&logoColor=FFD93D" />
-<img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=4ECDC4" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00FF41" />
 
 **Frontend & Backend**
 
-<img src="https://img.shields.io/badge/React-16213e?style=for-the-badge&logo=react&logoColor=4ECDC4" />
-<img src="https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=6BE39B" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00FF41" />
 
 **Data & Infrastructure**
 
-<img src="https://img.shields.io/badge/PostgreSQL-16213e?style=for-the-badge&logo=postgresql&logoColor=4ECDC4" />
-<img src="https://img.shields.io/badge/Redis-1a1a2e?style=for-the-badge&logo=redis&logoColor=FF6B6B" />
-<img src="https://img.shields.io/badge/Docker-16213e?style=for-the-badge&logo=docker&logoColor=4ECDC4" />
-<img src="https://img.shields.io/badge/Kafka-1a1a2e?style=for-the-badge&logo=apachekafka&logoColor=FFD93D" />
-<img src="https://img.shields.io/badge/Qdrant-16213e?style=for-the-badge&logo=qdrant&logoColor=FF6B6B" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logo=qdrant&logoColor=00FF41" />
 
 **AI / ML**
 
-<img src="https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-<img src="https://img.shields.io/badge/TensorFlow-16213e?style=for-the-badge&logo=tensorflow&logoColor=FF9E6B" />
-<img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF41" />
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Git-16213e?style=for-the-badge&logo=git&logoColor=F1502F" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
 
 </div>
 
 <br/>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
 
-🕹️ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 🕹️
-
-### 🧠 AI / ML FOCUS
+### <code>[ NEURAL_MODULES.sys ]</code>
 
 </div>
 
 <div align="center">
 
-| 🎯 Domain | 🎯 Toolkit |
+| DOMAIN | TOOLKIT |
 |:---|:---|
 | Deep Learning | PyTorch · TensorFlow |
 | Classical ML | scikit-learn |
@@ -120,16 +129,15 @@ Currently exploring how agentic AI, vector search, and real-time data pipelines 
 </div>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
 
-🕹️ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 🕹️
-
-### 🛠️ FULL-STACK & SYSTEMS SKILLS
+### <code>[ FULLSTACK_PROTOCOLS.sys ]</code>
 
 </div>
 
 <div align="center">
 
-| 🎯 Layer | 🎯 Stack |
+| LAYER | STACK |
 |:---|:---|
 | Frontend | React · TypeScript · JavaScript |
 | Backend | FastAPI · Python · Java |
@@ -143,10 +151,9 @@ Currently exploring how agentic AI, vector search, and real-time data pipelines 
 <br/>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
 
-🕹️ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 🕹️
-
-### 🏆 FEATURED PROJECTS (BOSS LEVELS)
+### <code>[ EXPLOITS_DEPLOYED — CLASSIFIED ]</code>
 
 </div>
 
@@ -154,7 +161,7 @@ Currently exploring how agentic AI, vector search, and real-time data pipelines 
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🕹️ NovaCure</h3>
+<h3 align="center">🔓 NovaCure</h3>
 
 <p align="center"><em>AI-powered pharmacy management platform</em></p>
 
@@ -163,17 +170,17 @@ An intelligent pharmacy management system built with a modern, event-driven arch
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=6BE39B" />
-<img src="https://img.shields.io/badge/React-16213e?style=flat-square&logo=react&logoColor=4ECDC4" />
-<img src="https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=4ECDC4" />
-<img src="https://img.shields.io/badge/Kafka-16213e?style=flat-square&logo=apachekafka&logoColor=FFD93D" />
-<img src="https://img.shields.io/badge/Qdrant-1a1a2e?style=flat-square&logo=qdrant&logoColor=FF6B6B" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Qdrant-000000?style=flat-square&logo=qdrant&logoColor=00FF41" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🕹️ ZeroHarm AI</h3>
+<h3 align="center">🔓 ZeroHarm AI</h3>
 
 <p align="center"><em>AI-powered industrial safety & predictive intelligence</em></p>
 
@@ -182,11 +189,11 @@ A predictive intelligence platform for industrial safety, powered by autonomous 
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/AI%20Agents-16213e?style=flat-square&logo=openai&logoColor=FFD93D" />
-<img src="https://img.shields.io/badge/FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=6BE39B" />
-<img src="https://img.shields.io/badge/Kafka-16213e?style=flat-square&logo=apachekafka&logoColor=FFD93D" />
-<img src="https://img.shields.io/badge/Redis-1a1a2e?style=flat-square&logo=redis&logoColor=FF6B6B" />
-<img src="https://img.shields.io/badge/Qdrant-16213e?style=flat-square&logo=qdrant&logoColor=FF6B6B" />
+<img src="https://img.shields.io/badge/AI%20Agents-0d1117?style=flat-square&logo=openai&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Qdrant-0d1117?style=flat-square&logo=qdrant&logoColor=00FF41" />
 </p>
 
 </td>
@@ -196,55 +203,52 @@ A predictive intelligence platform for industrial safety, powered by autonomous 
 <br/>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
 
-🕹️ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 🕹️
+### <code>[ SURVEILLANCE_FEED.log ]</code>
 
-### 📊 SCOREBOARD (GITHUB STATS)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Parinamika-13&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=FFD93D&icon_color=FF6B6B&text_color=E6D9FF&ring_color=4ECDC4" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parinamika-13&theme=dracula&hide_border=true&background=1a1a2e&stroke=16213e&ring=FFD93D&fire=FF6B6B&currStreakLabel=E6D9FF" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parinamika-13&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=FFD93D&text_color=E6D9FF&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Parinamika-13&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parinamika-13&theme=highcontrast&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parinamika-13&theme=dracula&bg_color=1a1a2e&color=FFD93D&line=FF6B6B&point=E6D9FF&hide_border=true" width="90%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parinamika-13&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&langs_count=8" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parinamika-13&theme=github-compact&bg_color=000000&color=00FF41&line=00FF41&point=00FF41&hide_border=true" width="90%" />
 
 </div>
 
 <br/>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
 
-🕹️ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 🕹️
-
-### 🚀 CURRENT QUEST LOG
+### <code>[ PROCESSES_RUNNING.exe ]</code>
 
 </div>
 
 <div align="center">
 
-🎯 Deepening my understanding of AI agent architectures
-🎯 Exploring vector-search-driven retrieval systems with Qdrant
-🎯 Building scalable event-driven backends with Kafka + FastAPI
-🎯 Strengthening full-stack fluency across the React + TypeScript ecosystem
+> Deepening my understanding of AI agent architectures
+> Exploring vector-search-driven retrieval systems with Qdrant
+> Building scalable event-driven backends with Kafka + FastAPI
+> Strengthening full-stack fluency across the React + TypeScript ecosystem
 
 </div>
 
 <br/>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
 
-🕹️ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 🕹️
+<img src="https://img.shields.io/badge/root%40system-%3A~%23_-000000?style=for-the-badge&labelColor=0d1117&color=00FF41" />
 
-<img src="https://img.shields.io/badge/🎮-every__bug__is__a__boss__fight-1a1a2e?style=for-the-badge&labelColor=16213e&color=FFD93D" />
+### <code>"There is no patch for a mind that keeps compiling ideas."</code>
 
-### *"Debugging is just finding the cheat code nobody gave you."*
+<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
 
-🕹️ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 🕹️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:16213e&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:000000,100:0d1117&height=150&section=footer" width="100%"/>
 
 </div>
