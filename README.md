@@ -1,254 +1,232 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:000000&height=280&section=header&text=PARINAMIKA_BHANU&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=%3E%20root%20access%20granted%20%3A%3A%20building%20intelligent%20systems&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:1a1a3e,60:6b5b95,100:d4a5c9&height=260&section=header&text=Parinamika%20Bhanu&fontSize=44&fontColor=F5EFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%E2%80%A2%20Software%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Cloud&descAlignY=58&descAlign=50&descColor=C9A7FF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=650&lines=Booting+kernel...+%5BOK%5D;Decrypting+profile.dat...+%5BOK%5D;Bypassing+firewall...+%5BOK%5D;ACCESS+GRANTED;Welcome%2C+Parinamika." alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=C9A7FF&center=true&vCenter=true&width=620&lines=Computer+Science+Student;Building+AI-Powered+Software;Exploring+Secure%2C+Scalable+Systems;curious+by+default+%E2%9C%A6" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=0d1117&color=00FF41" />
-  <img src="https://img.shields.io/badge/ENCRYPTION-AES--256-000000?style=for-the-badge&labelColor=0d1117&color=00FF41" />
-  <img src="https://img.shields.io/badge/CLEARANCE-ROOT-000000?style=for-the-badge&labelColor=0d1117&color=FF073A" />
+<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
+
+<h3 align="center">☾ About</h3>
+
+<p align="center" style="max-width:640px;">
+Computer Science student building AI-powered software and exploring secure, scalable systems.<br/>
+I like turning ideas into working products — across AI/ML, full-stack engineering, cybersecurity, and cloud infrastructure.
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
+
+`AI / ML`&nbsp;&nbsp;·&nbsp;&nbsp;`Full-Stack Development`&nbsp;&nbsp;·&nbsp;&nbsp;`AI Agents`&nbsp;&nbsp;·&nbsp;&nbsp;`Cybersecurity`&nbsp;&nbsp;·&nbsp;&nbsp;`Cloud / AWS`&nbsp;&nbsp;·&nbsp;&nbsp;`System Design`&nbsp;&nbsp;·&nbsp;&nbsp;`DSA`
+
 </div>
+
+<br/>
 
 <div align="center">
 
 <pre>
-██████╗  █████╗ ██████╗ ██╗███╗   ██╗ █████╗ ███╗   ███╗██╗██╗  ██╗ █████╗ 
-██╔══██╗██╔══██╗██╔══██╗██║████╗  ██║██╔══██╗████╗ ████║██║██║ ██╔╝██╔══██╗
-██████╔╝███████║██████╔╝██║██╔██╗ ██║███████║██╔████╔██║██║█████╔╝ ███████║
-██╔═══╝ ██╔══██║██╔══██╗██║██║╚██╗██║██╔══██║██║╚██╔╝██║██║██╔═██╗ ██╔══██║
-██║     ██║  ██║██║  ██║██║██║ ╚████║██║  ██║██║ ╚═╝ ██║██║██║  ██╗██║  ██║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-</pre>
+> initializing Parinamika...
 
-### <code>[ IDENTITY_FILE.dat — DECRYPTED ]</code>
+  curiosity ........... ONLINE
+  creativity ........... ONLINE
+  security ............. ONLINE
+  cloud ................. ONLINE
+  machine learning .. ONLINE
+  building .............. ONLINE
+
+> ready.
+</pre>
 
 </div>
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
 
-<pre>
-root@parinamika:~$ whoami
-> Parinamika Bhanu :: Software Engineer
-
-root@parinamika:~$ cat interests.txt
-> Artificial Intelligence
-> Machine Learning Systems
-> Full-Stack Engineering
-> Elegant, scalable architecture
-
-root@parinamika:~$ trace --target=motivation
-> Building AI-powered platforms
-> that quietly do something smart
-> under the hood.
-
-root@parinamika:~$ ./deploy.sh --mode=engineer
-> [OK] SYSTEM ONLINE
-> [OK] NO BUGS DETECTED (yet)
-> [OK] READY_TO_BUILD = TRUE
-</pre>
-
-</td>
-<td width="45%" valign="top">
-
-I'm a software engineer who loves building things that sit at the intersection of **AI/ML** and **full-stack engineering** — from predictive intelligence systems to production-ready platforms.
-
-I care about clean architecture, thoughtful design, and systems that quietly do something intelligent under the hood.
-
-Currently exploring how agentic AI, vector search, and real-time data pipelines come together to build genuinely useful products.
-
-</td>
-</tr>
-</table>
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
-
-### <code>[ ARSENAL.exe — LOADED ]</code>
 
 **Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-1a1a3e?style=for-the-badge&logo=python&logoColor=C9A7FF" />
+<img src="https://img.shields.io/badge/Java-0a0e27?style=for-the-badge&logo=openjdk&logoColor=C9A7FF" />
+<img src="https://img.shields.io/badge/JavaScript-1a1a3e?style=for-the-badge&logo=javascript&logoColor=F5D6E8" />
+<img src="https://img.shields.io/badge/TypeScript-0a0e27?style=for-the-badge&logo=typescript&logoColor=7FDBFF" />
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00FF41" />
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-1a1a3e?style=for-the-badge&logo=react&logoColor=7FDBFF" />
+<img src="https://img.shields.io/badge/HTML5-0a0e27?style=for-the-badge&logo=html5&logoColor=F5B7DA" />
+<img src="https://img.shields.io/badge/CSS3-1a1a3e?style=for-the-badge&logo=css3&logoColor=7FDBFF" />
 
-**Frontend & Backend**
-
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00FF41" />
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-0a0e27?style=for-the-badge&logo=fastapi&logoColor=6BE39B" />
+<img src="https://img.shields.io/badge/Node.js-1a1a3e?style=for-the-badge&logo=nodedotjs&logoColor=6BE39B" />
 
 **Data & Infrastructure**
-
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logo=qdrant&logoColor=00FF41" />
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-0a0e27?style=for-the-badge&logo=postgresql&logoColor=7FDBFF" />
+<img src="https://img.shields.io/badge/Redis-1a1a3e?style=for-the-badge&logo=redis&logoColor=F5B7DA" />
+<img src="https://img.shields.io/badge/Docker-0a0e27?style=for-the-badge&logo=docker&logoColor=7FDBFF" />
+<img src="https://img.shields.io/badge/Kafka-1a1a3e?style=for-the-badge&logo=apachekafka&logoColor=C9A7FF" />
+<img src="https://img.shields.io/badge/Qdrant-0a0e27?style=for-the-badge&logo=qdrant&logoColor=F5B7DA" />
 
 **AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-1a1a3e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/TensorFlow-0a0e27?style=for-the-badge&logo=tensorflow&logoColor=FF9E6B" />
+<img src="https://img.shields.io/badge/scikit--learn-1a1a3e?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
 
-<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF41" />
+**Cloud**
+<br/>
+<img src="https://img.shields.io/badge/AWS-0a0e27?style=for-the-badge&logo=amazonaws&logoColor=FF9E6B" />
 
 **Tools**
-
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
-
-</div>
-
 <br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
-
-### <code>[ NEURAL_MODULES.sys ]</code>
+<img src="https://img.shields.io/badge/Git-1a1a3e?style=for-the-badge&logo=git&logoColor=F1502F" />
+<img src="https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=F5EFFF" />
 
 </div>
 
-<div align="center">
+<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
 
-| DOMAIN | TOOLKIT |
-|:---|:---|
-| Deep Learning | PyTorch · TensorFlow |
-| Classical ML | scikit-learn |
-| Vector Search & Retrieval | Qdrant |
-| AI-Powered Systems | FastAPI + Kafka + Redis pipelines |
+<h3 align="center">☾ Security / Digital Defense</h3>
 
-</div>
+<p align="center" style="max-width:600px;">
+I'm interested in cybersecurity and secure application development — thinking about threat awareness, security-conscious software engineering, and cloud security fundamentals as part of how I build, not as an afterthought.
+</p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
-
-### <code>[ FULLSTACK_PROTOCOLS.sys ]</code>
-
+<img src="https://img.shields.io/badge/Application_Security-1a1a3e?style=flat-square&logoColor=C9A7FF" />
+<img src="https://img.shields.io/badge/Secure_Software_Dev-0a0e27?style=flat-square&logoColor=F5B7DA" />
+<img src="https://img.shields.io/badge/Threat_Awareness-1a1a3e?style=flat-square&logoColor=7FDBFF" />
 </div>
 
-<div align="center">
+<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
 
-| LAYER | STACK |
-|:---|:---|
-| Frontend | React · TypeScript · JavaScript |
-| Backend | FastAPI · Python · Java |
-| Data Layer | PostgreSQL · Redis |
-| Messaging / Streaming | Kafka |
-| DevOps | Docker |
-| Version Control | Git |
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
-
-### <code>[ EXPLOITS_DEPLOYED — CLASSIFIED ]</code>
-
-</div>
+<h3 align="center">Featured Projects</h3>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🔓 NovaCure</h3>
-
-<p align="center"><em>AI-powered pharmacy management platform</em></p>
+<h4 align="center">✦ NovaCure</h4>
+<p align="center"><em>AI-powered, microservices-based pharmacy management platform</em></p>
 
 <p align="center">
-An intelligent pharmacy management system built with a modern, event-driven architecture — combining semantic search and real-time data flow for smarter pharmacy operations.
+Role-based access · Inventory & lot/expiry tracking · Prescription-linked POS<br/>
+Stock transfers & replenishment planning · Executive reporting<br/>
+AI assistant · Demand forecasting · Anomaly detection
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Qdrant-000000?style=flat-square&logo=qdrant&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/FastAPI-0a0e27?style=flat-square&logo=fastapi&logoColor=6BE39B" />
+<img src="https://img.shields.io/badge/React-1a1a3e?style=flat-square&logo=react&logoColor=7FDBFF" />
+<img src="https://img.shields.io/badge/PostgreSQL-0a0e27?style=flat-square&logo=postgresql&logoColor=7FDBFF" />
+<img src="https://img.shields.io/badge/Kafka-1a1a3e?style=flat-square&logo=apachekafka&logoColor=C9A7FF" />
+<img src="https://img.shields.io/badge/Qdrant-0a0e27?style=flat-square&logo=qdrant&logoColor=F5B7DA" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🔓 ZeroHarm AI</h3>
-
-<p align="center"><em>AI-powered industrial safety & predictive intelligence</em></p>
+<h4 align="center">✦ ZeroHarm AI</h4>
+<p align="center"><em>AI-powered industrial safety & predictive intelligence platform</em></p>
 
 <p align="center">
-A predictive intelligence platform for industrial safety, powered by autonomous AI agents and a real-time streaming pipeline for early risk detection.
+AI agents for real-time telemetry & safety monitoring · Decision-making & auditing<br/>
+Random Forest & Isolation Forest models · LLM integration · Sentence Transformers
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/AI%20Agents-0d1117?style=flat-square&logo=openai&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Qdrant-0d1117?style=flat-square&logo=qdrant&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Next.js-0a0e27?style=flat-square&logo=nextdotjs&logoColor=F5EFFF" />
+<img src="https://img.shields.io/badge/TypeScript-1a1a3e?style=flat-square&logo=typescript&logoColor=7FDBFF" />
+<img src="https://img.shields.io/badge/FastAPI-0a0e27?style=flat-square&logo=fastapi&logoColor=6BE39B" />
+<img src="https://img.shields.io/badge/Kafka-1a1a3e?style=flat-square&logo=apachekafka&logoColor=C9A7FF" />
+<img src="https://img.shields.io/badge/Kubernetes-0a0e27?style=flat-square&logo=kubernetes&logoColor=7FDBFF" />
+<img src="https://img.shields.io/badge/Docker-1a1a3e?style=flat-square&logo=docker&logoColor=7FDBFF" />
 </p>
 
 </td>
 </tr>
 </table>
 
-<br/>
+<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
+
+<h3 align="center">GitHub Statistics</h3>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
 
-### <code>[ SURVEILLANCE_FEED.log ]</code>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Parinamika-13&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parinamika-13&theme=highcontrast&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Parinamika-13&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e27&title_color=C9A7FF&icon_color=F5B7DA&text_color=E6D9FF&ring_color=7FDBFF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parinamika-13&theme=radical&hide_border=true&background=0a0e27&stroke=1a1a3e&ring=C9A7FF&fire=F5B7DA&currStreakLabel=E6D9FF" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parinamika-13&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parinamika-13&layout=compact&theme=radical&hide_border=true&bg_color=0a0e27&title_color=C9A7FF&text_color=E6D9FF&langs_count=8" width="55%" />
 
+</div>
+
+<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
+
+<h3 align="center">Trophies</h3>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Parinamika-13&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4" width="80%" />
+</div>
+
+<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
+
+<h3 align="center">Currently</h3>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**Learning**
 <br/>
+AI Agents<br/>System Design<br/>DSA<br/>Cybersecurity<br/>AWS / Cloud
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parinamika-13&theme=github-compact&bg_color=000000&color=00FF41&line=00FF41&point=00FF41&hide_border=true" width="90%" />
+</td>
+<td align="center" width="33%">
 
+**Building**
+<br/>
+AI-powered applications<br/>Full-stack projects<br/>Developer tools<br/>Secure software
+
+</td>
+<td align="center" width="33%">
+
+**Exploring**
+<br/>
+Cloud systems<br/>AI systems<br/>Cybersecurity<br/>Creative interfaces
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<p align="center"><sub>powered by curiosity, caffeine, and questionable debugging decisions ✦</sub></p>
+
+<p align="center">✦ ⋆ ｡ ﾟ☾ ﾟ｡ ⋆ ✦</p>
+
+<h3 align="center">Connect</h3>
+
+<div align="center">
+<a href="https://github.com/Parinamika-13"><img src="https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=F5EFFF" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
-
-### <code>[ PROCESSES_RUNNING.exe ]</code>
-
+<sub>keep building ✦</sub>
 </div>
 
-<div align="center">
-
-> Deepening my understanding of AI agent architectures
-> Exploring vector-search-driven retrieval systems with Qdrant
-> Building scalable event-driven backends with Kafka + FastAPI
-> Strengthening full-stack fluency across the React + TypeScript ecosystem
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
-
-<img src="https://img.shields.io/badge/root%40system-%3A~%23_-000000?style=for-the-badge&labelColor=0d1117&color=00FF41" />
-
-### <code>"There is no patch for a mind that keeps compiling ideas."</code>
-
-<img src="https://raw.githubusercontent.com/kucherenko/kucherenko/main/matrix.gif" width="100%" height="4"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:000000,100:0d1117&height=150&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a5c9,40:6b5b95,75:1a1a3e,100:0a0e27&height=140&section=footer" width="100%"/>
